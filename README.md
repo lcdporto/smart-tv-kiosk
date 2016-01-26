@@ -1,4 +1,4 @@
-# smartTVkiosk
+# smart TV kiosk
 
 Project to turn a TV into a smart TV that automatically shows a web site and can be remotely controlled via VNC.
 
